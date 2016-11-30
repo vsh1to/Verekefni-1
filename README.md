@@ -1,2 +1,2 @@
-# Verekfni-1
+# Verekefni-1
 HTML og CSS ritun
